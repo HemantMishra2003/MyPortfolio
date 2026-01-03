@@ -1,4 +1,4 @@
-# PersonalPortfolio
+# MyPortfolio
 
 https://hemantmishra2003.github.io/MyPortfolio/
 

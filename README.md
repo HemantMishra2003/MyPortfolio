@@ -1,6 +1,6 @@
 # PersonalPortfolio
 
-https://github.com/HemantMishra2003/MyPortfolio/
+https://hemantmishra2003.github.io/MyPortfolio/
 
 </div>
 <div>
